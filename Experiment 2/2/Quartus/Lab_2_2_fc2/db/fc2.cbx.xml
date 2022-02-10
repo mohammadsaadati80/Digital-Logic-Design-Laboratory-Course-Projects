@@ -1,0 +1,6 @@
+<?xml version="1.0" ?>
+<LOG_ROOT>
+	<PROJECT NAME="fc2">
+		<CBX_INST_ENTRY INSTANCE_NAME="|fc2|lpm_mux0:inst8|LPM_MUX:LPM_MUX_component" CBX_FILE_NAME="mux_i7e.tdf"/>
+	</PROJECT>
+</LOG_ROOT>

@@ -1,0 +1,39 @@
+module ClockMonitoring (clk50,clk_ex,PSI_set,PSI_min,PSI_max,FRO_min,Fail,setPeriod);
+
+    input clk50;
+	 input clk_ex;
+	 input [7:0]PSI_set;
+	 input [7:0]PSI_min;
+	 input [7:0]PSI_max;
+	 input [7:0]FRO_min;
+	 output reg Fail;
+	 output reg [7:0]setPeriod;
+	 
+	 reg [15:0]counter = 0;
+    reg previous , rst;
+	 
+	 always @(clk50) begin : transition
+        previous <= clk_ex;
+        // rst <= ({previous,clk_ex} == 2'b01) ? 1 : 0;
+    end
+
+    always @(posedge clk_ex) begin
+        Fail <= (counter > (FRO_min*6)) ? 1 : 0;
+        rst <= ({previous,clk_ex} == 2'b01) ? 1 : 0;
+    end
+	 
+	 always @(PSI_set , PSI_min , PSI_max) begin
+        if ((PSI_set < PSI_max) && (PSI_set > PSI_min))
+			setPeriod <= PSI_set;
+        else if (PSI_set < PSI_min)
+			setPeriod <= PSI_min;
+        else if (PSI_set > PSI_max) 
+			setPeriod <= PSI_max; 
+    end
+
+    always @(posedge clk50) begin
+        if(rst) counter <= 0;
+        else counter <= (counter + 1);
+    end
+
+endmodule

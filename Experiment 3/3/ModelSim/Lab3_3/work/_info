@@ -1,0 +1,92 @@
+m255
+K4
+z2
+!s11f vlog 2019.4 2019.10, Oct 15 2019
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/SAADATI-PC/Documents/modeltech64_2019.4/Lab3_2
+T_opt
+!s110 1621669815
+VB=>9YM:Lm?4i_<T_Am9^n0
+04 8 4 work wgfsasTB fast 0
+=1-3cf011774507-60a8b7b5-3-2804
+o-quiet -auto_acc_if_foreign -work work -L C:/Users/SAADATI-PC/Documents/modeltech64_2019.4/Lab3_3/altera -L C:/Users/SAADATI-PC/Documents/modeltech64_2019.4/Lab3_3/cycloneive +acc
+Z0 tCvgOpt 0
+n@_opt
+OL;O;2019.4;69
+vAmplitudeSelector
+Z1 !s110 1621669536
+!i10b 1
+!s100 IIn]T`2;kh2>D8A0JFk5c0
+!s11b 5nSI[zS8QBQ7KLd`af^?31
+IN04J14_C:@DR?TOU[@@j`2
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dC:/Users/SAADATI-PC/Documents/modeltech64_2019.4/Lab3_3
+w1621668714
+8C:/Users/SAADATI-PC/Documents/modeltech64_2019.4/Lab3_3/AmplitudeSelector.v
+FC:/Users/SAADATI-PC/Documents/modeltech64_2019.4/Lab3_3/AmplitudeSelector.v
+!i122 -1
+L0 1
+Z4 OL;L;2019.4;69
+r1
+!s85 0
+31
+Z5 !s108 1621669536.000000
+!s107 C:/Users/SAADATI-PC/Documents/modeltech64_2019.4/Lab3_3/AmplitudeSelector.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/SAADATI-PC/Documents/modeltech64_2019.4/Lab3_3/AmplitudeSelector.v|
+!i113 0
+Z6 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R0
+n@amplitude@selector
+vWaveformGenFreqSelecAmpSelec
+R1
+!i10b 1
+!s100 eE;U[b^8RB;MICZH@oNkJ0
+!s11b N2HIl^TG:T69TD]?f`ohl1
+IXU5?2l3GKgA1OTJ_]J[9X0
+R2
+R3
+w1621669109
+8C:/Users/SAADATI-PC/Documents/modeltech64_2019.4/Lab3_3/WaveformGenFreqSelecAmpSelec.vo
+FC:/Users/SAADATI-PC/Documents/modeltech64_2019.4/Lab3_3/WaveformGenFreqSelecAmpSelec.vo
+!i122 -1
+L0 31
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/SAADATI-PC/Documents/modeltech64_2019.4/Lab3_3/WaveformGenFreqSelecAmpSelec.vo|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/SAADATI-PC/Documents/modeltech64_2019.4/Lab3_3/WaveformGenFreqSelecAmpSelec.vo|
+!i113 0
+R6
+R0
+n@waveform@gen@freq@selec@amp@selec
+vwgfsasTB
+!s110 1621669784
+!i10b 1
+!s100 @P>0@okTnY<l9<75IB17X2
+!s11b eH6SE9M96[5g9A@ZOY<hz2
+I2oNM?2j^jPhiQLf>^UfQj2
+R2
+R3
+w1621669779
+8C:\Users\SAADATI-PC\Documents\modeltech64_2019.4\Lab3_3\WaveformGenFreqSelecAmpSelecTB.v
+FC:\Users\SAADATI-PC\Documents\modeltech64_2019.4\Lab3_3\WaveformGenFreqSelecAmpSelecTB.v
+!i122 -1
+L0 2
+R4
+r1
+!s85 0
+31
+!s108 1621669784.000000
+!s107 C:\Users\SAADATI-PC\Documents\modeltech64_2019.4\Lab3_3\WaveformGenFreqSelecAmpSelecTB.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:\Users\SAADATI-PC\Documents\modeltech64_2019.4\Lab3_3\WaveformGenFreqSelecAmpSelecTB.v|
+!i113 0
+R6
+R0
+nwgfsas@t@b

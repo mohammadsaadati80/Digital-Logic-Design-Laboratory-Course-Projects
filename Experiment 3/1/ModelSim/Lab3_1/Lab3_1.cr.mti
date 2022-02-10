@@ -1,0 +1,22 @@
+C:/Users/SAADATI-PC/Documents/modeltech64_2019.4/Lab3_1/WaveformGeneratorProcessorTB.v {1 {vlog -work work -vopt -stats=none C:/Users/SAADATI-PC/Documents/modeltech64_2019.4/Lab3_1/WaveformGeneratorProcessorTB.v
+Model Technology ModelSim SE-64 vlog 2019.4 Compiler 2019.10 Oct 15 2019
+-- Compiling module wgpTB
+
+Top level modules:
+	wgpTB
+
+} {} {}} C:/Users/SAADATI-PC/Documents/modeltech64_2019.4/Lab3_1/WaveformGenerator.vo {1 {vlog -work work -vopt -stats=none C:/Users/SAADATI-PC/Documents/modeltech64_2019.4/Lab3_1/WaveformGenerator.vo
+Model Technology ModelSim SE-64 vlog 2019.4 Compiler 2019.10 Oct 15 2019
+-- Compiling module WaveformGenerator
+
+Top level modules:
+	WaveformGenerator
+
+} {} {}} C:/Users/SAADATI-PC/Documents/modeltech64_2019.4/Lab3_1/WaveformGeneratorProcessor.v {1 {vlog -work work -vopt -stats=none C:/Users/SAADATI-PC/Documents/modeltech64_2019.4/Lab3_1/WaveformGeneratorProcessor.v
+Model Technology ModelSim SE-64 vlog 2019.4 Compiler 2019.10 Oct 15 2019
+-- Compiling module WaveformGeneratorProcessor
+
+Top level modules:
+	WaveformGeneratorProcessor
+
+} {} {}}

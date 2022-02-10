@@ -1,0 +1,136 @@
+m255
+K4
+z2
+!s11f vlog 2019.4 2019.10, Oct 15 2019
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/SAADATI-PC/Documents/modeltech64_2019.4/Lab3_1
+T_opt
+!s110 1621662989
+VQD[9Jf@4RLK1_6<W]_2;F0
+Z1 04 6 4 work wgfsTB fast 0
+=1-3cf011774507-60a89d0a-92-3a78
+Z2 o-quiet -auto_acc_if_foreign -work work -L C:/Users/SAADATI-PC/Documents/modeltech64_2019.4/Lab3_2/altera -L C:/Users/SAADATI-PC/Documents/modeltech64_2019.4/Lab3_2/cycloneive +acc
+Z3 tCvgOpt 0
+n@_opt
+Z4 OL;O;2019.4;69
+R0
+T_opt1
+!s110 1621665325
+V[TRzhb?Nb56bk``P47iIU1
+04 9 4 work clkdiv8TB fast 0
+=1-3cf011774507-60a8a62c-332-3368
+R2
+R3
+n@_opt1
+R4
+R0
+T_opt2
+!s110 1621666429
+VVKRNnXAKE<7PG5^:52cQM2
+R1
+=3-3cf011774507-60a8aa7b-347-14e8
+R2
+R3
+n@_opt2
+R4
+R0
+vclkdiv8
+!s110 1621666140
+!i10b 1
+!s100 `AfbM9F4k@UH>^<eTM1Kz0
+!s11b So4FOARQdWNcOMh5FfXz91
+ITd1L?2]kg]8TJmPo>ifJd1
+Z5 VDg1SIo80bB@j0V0VzS_@n1
+Z6 dC:/Users/SAADATI-PC/Documents/modeltech64_2019.4/Lab3_2
+w1621665303
+8C:\Users\SAADATI-PC\Documents\modeltech64_2019.4\Lab3_2\clkdiv8.v
+FC:\Users\SAADATI-PC\Documents\modeltech64_2019.4\Lab3_2\clkdiv8.v
+!i122 -1
+L0 1
+Z7 OL;L;2019.4;69
+r1
+!s85 0
+31
+Z8 !s108 1621666140.000000
+!s107 C:\Users\SAADATI-PC\Documents\modeltech64_2019.4\Lab3_2\clkdiv8.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:\Users\SAADATI-PC\Documents\modeltech64_2019.4\Lab3_2\clkdiv8.v|
+!i113 0
+Z9 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R3
+vclkdiv8TB
+Z10 !s110 1621666141
+!i10b 1
+!s100 ;BJSFlAb===<n`T>^Yjlj0
+!s11b V?=BX198W;omKSg?JG_T>1
+I8_1`hTlge6;kEKoH;<Km>1
+R5
+R6
+w1621664349
+8C:\Users\SAADATI-PC\Documents\modeltech64_2019.4\Lab3_2\clkdiv8TB.v
+FC:\Users\SAADATI-PC\Documents\modeltech64_2019.4\Lab3_2\clkdiv8TB.v
+!i122 -1
+L0 2
+R7
+r1
+!s85 0
+31
+R8
+!s107 C:\Users\SAADATI-PC\Documents\modeltech64_2019.4\Lab3_2\clkdiv8TB.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:\Users\SAADATI-PC\Documents\modeltech64_2019.4\Lab3_2\clkdiv8TB.v|
+!i113 0
+R9
+R3
+nclkdiv8@t@b
+vWaveformGenFreqSelec
+R10
+!i10b 1
+!s100 aP6:P<^>f5Hc<bM76Dh;71
+!s11b Pzi@k3V3dK5:3@2cc]l2k0
+I:3_a1b_oFmIUTiXYeONFV0
+R5
+R6
+w1621665383
+8C:\Users\SAADATI-PC\Documents\modeltech64_2019.4\Lab3_2\WaveformGenFreqSelec.vo
+FC:\Users\SAADATI-PC\Documents\modeltech64_2019.4\Lab3_2\WaveformGenFreqSelec.vo
+!i122 -1
+L0 31
+R7
+r1
+!s85 0
+31
+!s108 1621666141.000000
+!s107 C:\Users\SAADATI-PC\Documents\modeltech64_2019.4\Lab3_2\WaveformGenFreqSelec.vo|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:\Users\SAADATI-PC\Documents\modeltech64_2019.4\Lab3_2\WaveformGenFreqSelec.vo|
+!i113 0
+R9
+R3
+n@waveform@gen@freq@selec
+vwgfsTB
+!s110 1621666744
+!i10b 1
+!s100 `48d0aC3Y4azF<c5a=gc20
+!s11b Bg]`OIiMIB0_D2E:FXiUj3
+IgF2IjVi[lDU@=k_@ozgFH3
+R5
+R6
+w1621666738
+8C:/Users/SAADATI-PC/Documents/modeltech64_2019.4/Lab3_2/WaveformGenFreqSelecTB.v
+FC:/Users/SAADATI-PC/Documents/modeltech64_2019.4/Lab3_2/WaveformGenFreqSelecTB.v
+!i122 -1
+L0 2
+R7
+r1
+!s85 0
+31
+!s108 1621666744.000000
+!s107 C:/Users/SAADATI-PC/Documents/modeltech64_2019.4/Lab3_2/WaveformGenFreqSelecTB.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/SAADATI-PC/Documents/modeltech64_2019.4/Lab3_2/WaveformGenFreqSelecTB.v|
+!i113 0
+R9
+R3
+nwgfs@t@b

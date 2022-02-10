@@ -1,0 +1,62 @@
+|fc
+MSB_CO <= 74193:inst1.CON
+inp7 => 74193:inst1.D
+inp6 => 74193:inst1.C
+inp5 => 74193:inst1.B
+inp4 => 74193:inst1.A
+inp3 => 74193:inst.D
+inp2 => 74193:inst.C
+inp1 => 74193:inst.B
+inp0 => 74193:inst.A
+clk => 74193:inst.UP
+prese => 7408:inst565.2
+out0 <= 74193:inst.QA
+out1 <= 74193:inst.QB
+out2 <= 74193:inst.QC
+out3 <= 74193:inst.QD
+out4 <= 74193:inst1.QA
+out5 <= 74193:inst1.QB
+out6 <= 74193:inst1.QC
+out7 <= 74193:inst1.QD
+
+
+|fc|74193:inst1
+BON <= 28.DB_MAX_OUTPUT_PORT_TYPE
+CLR => 44.IN0
+LDN => 43.IN0
+B => 53.IN2
+A => 52.IN2
+DN => 90.IN0
+UP => 89.IN0
+C => 54.IN2
+D => 55.IN2
+CON <= 27.DB_MAX_OUTPUT_PORT_TYPE
+QD <= 23.DB_MAX_OUTPUT_PORT_TYPE
+QC <= 24.DB_MAX_OUTPUT_PORT_TYPE
+QB <= 25.DB_MAX_OUTPUT_PORT_TYPE
+QA <= 26.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|fc|74193:inst
+BON <= 28.DB_MAX_OUTPUT_PORT_TYPE
+CLR => 44.IN0
+LDN => 43.IN0
+B => 53.IN2
+A => 52.IN2
+DN => 90.IN0
+UP => 89.IN0
+C => 54.IN2
+D => 55.IN2
+CON <= 27.DB_MAX_OUTPUT_PORT_TYPE
+QD <= 23.DB_MAX_OUTPUT_PORT_TYPE
+QC <= 24.DB_MAX_OUTPUT_PORT_TYPE
+QB <= 25.DB_MAX_OUTPUT_PORT_TYPE
+QA <= 26.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|fc|7408:inst565
+1 <= 4.DB_MAX_OUTPUT_PORT_TYPE
+2 => 4.IN0
+3 => 4.IN1
+
+

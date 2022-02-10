@@ -1,0 +1,36 @@
+C:/Users/SAADATI-PC/Documents/modeltech64_2019.4/Lab2_2/RingOscillator1.v {1 {vlog -work work -vopt -stats=none C:/Users/SAADATI-PC/Documents/modeltech64_2019.4/Lab2_2/RingOscillator1.v
+Model Technology ModelSim SE-64 vlog 2019.4 Compiler 2019.10 Oct 15 2019
+-- Compiling module RingOscillator1
+
+Top level modules:
+	RingOscillator1
+
+} {} {}} C:/Users/SAADATI-PC/Documents/modeltech64_2019.4/Lab2_2/ClockMonitoring.v {1 {vlog -work work -vopt -stats=none C:/Users/SAADATI-PC/Documents/modeltech64_2019.4/Lab2_2/ClockMonitoring.v
+Model Technology ModelSim SE-64 vlog 2019.4 Compiler 2019.10 Oct 15 2019
+-- Compiling module ClockMonitoring
+
+Top level modules:
+	ClockMonitoring
+
+} {} {}} C:/Users/SAADATI-PC/Documents/modeltech64_2019.4/Lab2_2/fc2.vo {1 {vlog -work work -vopt -stats=none C:/Users/SAADATI-PC/Documents/modeltech64_2019.4/Lab2_2/fc2.vo
+Model Technology ModelSim SE-64 vlog 2019.4 Compiler 2019.10 Oct 15 2019
+-- Compiling module fc2
+
+Top level modules:
+	fc2
+
+} {} {}} C:/Users/SAADATI-PC/Documents/modeltech64_2019.4/Lab2_2/fcTB.v {1 {vlog -work work -vopt -stats=none C:/Users/SAADATI-PC/Documents/modeltech64_2019.4/Lab2_2/fcTB.v
+Model Technology ModelSim SE-64 vlog 2019.4 Compiler 2019.10 Oct 15 2019
+-- Compiling module fcTB
+
+Top level modules:
+	fcTB
+
+} {} {}} C:/Users/SAADATI-PC/Documents/modeltech64_2019.4/Lab2_2/FrequencyRegulator.v {1 {vlog -work work -vopt -stats=none C:/Users/SAADATI-PC/Documents/modeltech64_2019.4/Lab2_2/FrequencyRegulator.v
+Model Technology ModelSim SE-64 vlog 2019.4 Compiler 2019.10 Oct 15 2019
+-- Compiling module FrequencyRegulator
+
+Top level modules:
+	FrequencyRegulator
+
+} {} {}}

@@ -1,0 +1,109 @@
+C:/Users/SAADATI-PC/Documents/modeltech64_2019.4/Lab4_3/expTB.v {1 {vlog -work work -vopt -stats=none C:/Users/SAADATI-PC/Documents/modeltech64_2019.4/Lab4_3/expTB.v
+Model Technology ModelSim SE-64 vlog 2019.4 Compiler 2019.10 Oct 15 2019
+-- Compiling module expTB
+
+Top level modules:
+	expTB
+
+} {} {}} C:/Users/SAADATI-PC/Documents/modeltech64_2019.4/Lab4_3/FrequencyMultiplier.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/SAADATI-PC/Documents/modeltech64_2019.4/Lab4_3/FrequencyMultiplier.sv
+Model Technology ModelSim SE-64 vlog 2019.4 Compiler 2019.10 Oct 15 2019
+-- Compiling module FM
+
+Top level modules:
+	FM
+
+} {} {}} C:/Users/SAADATI-PC/Documents/modeltech64_2019.4/Lab4_3/register.v {1 {vlog -work work -vopt -stats=none C:/Users/SAADATI-PC/Documents/modeltech64_2019.4/Lab4_3/register.v
+Model Technology ModelSim SE-64 vlog 2019.4 Compiler 2019.10 Oct 15 2019
+-- Compiling module register
+
+Top level modules:
+	register
+
+} {} {}} C:/Users/SAADATI-PC/Documents/modeltech64_2019.4/Lab4_3/register18.v {1 {vlog -work work -vopt -stats=none C:/Users/SAADATI-PC/Documents/modeltech64_2019.4/Lab4_3/register18.v
+Model Technology ModelSim SE-64 vlog 2019.4 Compiler 2019.10 Oct 15 2019
+-- Compiling module register18
+
+Top level modules:
+	register18
+
+} {} {}} C:/Users/SAADATI-PC/Documents/modeltech64_2019.4/Lab4_3/multiplier.v {1 {vlog -work work -vopt -stats=none C:/Users/SAADATI-PC/Documents/modeltech64_2019.4/Lab4_3/multiplier.v
+Model Technology ModelSim SE-64 vlog 2019.4 Compiler 2019.10 Oct 15 2019
+-- Compiling module multiplier
+
+Top level modules:
+	multiplier
+
+} {} {}} C:/Users/SAADATI-PC/Documents/modeltech64_2019.4/Lab4_3/adder.v {1 {vlog -work work -vopt -stats=none C:/Users/SAADATI-PC/Documents/modeltech64_2019.4/Lab4_3/adder.v
+Model Technology ModelSim SE-64 vlog 2019.4 Compiler 2019.10 Oct 15 2019
+-- Compiling module adder
+
+Top level modules:
+	adder
+
+} {} {}} C:/Users/SAADATI-PC/Documents/modeltech64_2019.4/Lab4_3/FrequencyMultiplierTB.sv {2 {vlog -work work -vopt -sv -stats=none C:/Users/SAADATI-PC/Documents/modeltech64_2019.4/Lab4_3/FrequencyMultiplierTB.sv
+Model Technology ModelSim SE-64 vlog 2019.4 Compiler 2019.10 Oct 15 2019
+** Warning: C:/Users/SAADATI-PC/Documents/modeltech64_2019.4/Lab4_3/FrequencyMultiplierTB.sv(1): (vlog-2283) Extra semicolon in $unit (global) scope.
+** Warning: C:/Users/SAADATI-PC/Documents/modeltech64_2019.4/Lab4_3/FrequencyMultiplierTB.sv(29): (vlog-2284) Empty $unit scope found.
+-- Compiling package FrequencyMultiplierTB_sv_unit
+-- Compiling module FM_TB
+
+Top level modules:
+	FM_TB
+
+} {} {}} C:/Users/SAADATI-PC/Documents/modeltech64_2019.4/Lab4_3/LUTExp.v {1 {vlog -work work -vopt -stats=none C:/Users/SAADATI-PC/Documents/modeltech64_2019.4/Lab4_3/LUTExp.v
+Model Technology ModelSim SE-64 vlog 2019.4 Compiler 2019.10 Oct 15 2019
+-- Compiling module LUT
+
+Top level modules:
+	LUT
+
+} {} {}} C:/Users/SAADATI-PC/Documents/modeltech64_2019.4/Lab4_3/FrequencyMultiplier_Datapath.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/SAADATI-PC/Documents/modeltech64_2019.4/Lab4_3/FrequencyMultiplier_Datapath.sv
+Model Technology ModelSim SE-64 vlog 2019.4 Compiler 2019.10 Oct 15 2019
+-- Compiling module FM_DP
+
+Top level modules:
+	FM_DP
+
+} {} {}} C:/Users/SAADATI-PC/Documents/modeltech64_2019.4/Lab4_3/Controller.v {1 {vlog -work work -vopt -stats=none C:/Users/SAADATI-PC/Documents/modeltech64_2019.4/Lab4_3/Controller.v
+Model Technology ModelSim SE-64 vlog 2019.4 Compiler 2019.10 Oct 15 2019
+-- Compiling module controller
+
+Top level modules:
+	controller
+
+} {} {}} C:/Users/SAADATI-PC/Documents/modeltech64_2019.4/Lab4_3/FrequencyMultiplier_Controller.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/SAADATI-PC/Documents/modeltech64_2019.4/Lab4_3/FrequencyMultiplier_Controller.sv
+Model Technology ModelSim SE-64 vlog 2019.4 Compiler 2019.10 Oct 15 2019
+-- Compiling module FM_CU
+
+Top level modules:
+	FM_CU
+
+} {} {}} C:/Users/SAADATI-PC/Documents/modeltech64_2019.4/Lab4_3/exponential.v {1 {vlog -work work -vopt -stats=none C:/Users/SAADATI-PC/Documents/modeltech64_2019.4/Lab4_3/exponential.v
+Model Technology ModelSim SE-64 vlog 2019.4 Compiler 2019.10 Oct 15 2019
+-- Compiling module exponential
+
+Top level modules:
+	exponential
+
+} {} {}} C:/Users/SAADATI-PC/Documents/modeltech64_2019.4/Lab4_3/Datapath.v {1 {vlog -work work -vopt -stats=none C:/Users/SAADATI-PC/Documents/modeltech64_2019.4/Lab4_3/Datapath.v
+Model Technology ModelSim SE-64 vlog 2019.4 Compiler 2019.10 Oct 15 2019
+-- Compiling module datapath
+
+Top level modules:
+	datapath
+
+} {} {}} C:/Users/SAADATI-PC/Documents/modeltech64_2019.4/Lab4_3/mux2to1.v {1 {vlog -work work -vopt -stats=none C:/Users/SAADATI-PC/Documents/modeltech64_2019.4/Lab4_3/mux2to1.v
+Model Technology ModelSim SE-64 vlog 2019.4 Compiler 2019.10 Oct 15 2019
+-- Compiling module mux2to1
+
+Top level modules:
+	mux2to1
+
+} {} {}} C:/Users/SAADATI-PC/Documents/modeltech64_2019.4/Lab4_3/Counter.v {1 {vlog -work work -vopt -stats=none C:/Users/SAADATI-PC/Documents/modeltech64_2019.4/Lab4_3/Counter.v
+Model Technology ModelSim SE-64 vlog 2019.4 Compiler 2019.10 Oct 15 2019
+-- Compiling module counter
+
+Top level modules:
+	counter
+
+} {} {}}

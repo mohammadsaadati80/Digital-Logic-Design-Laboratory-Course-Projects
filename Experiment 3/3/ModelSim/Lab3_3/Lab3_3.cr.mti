@@ -1,0 +1,15 @@
+C:/Users/SAADATI-PC/Documents/modeltech64_2019.4/Lab3_3/AmplitudeSelector.v {1 {vlog -work work -vopt -stats=none C:/Users/SAADATI-PC/Documents/modeltech64_2019.4/Lab3_3/AmplitudeSelector.v
+Model Technology ModelSim SE-64 vlog 2019.4 Compiler 2019.10 Oct 15 2019
+-- Compiling module AmplitudeSelector
+
+Top level modules:
+	AmplitudeSelector
+
+} {} {}} C:/Users/SAADATI-PC/Documents/modeltech64_2019.4/Lab3_3/WaveformGenFreqSelecAmpSelec.vo {1 {vlog -work work -vopt -stats=none C:/Users/SAADATI-PC/Documents/modeltech64_2019.4/Lab3_3/WaveformGenFreqSelecAmpSelec.vo
+Model Technology ModelSim SE-64 vlog 2019.4 Compiler 2019.10 Oct 15 2019
+-- Compiling module WaveformGenFreqSelecAmpSelec
+
+Top level modules:
+	WaveformGenFreqSelecAmpSelec
+
+} {} {}}

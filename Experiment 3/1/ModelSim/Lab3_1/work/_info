@@ -1,0 +1,136 @@
+m255
+K4
+z2
+!s11f vlog 2019.4 2019.10, Oct 15 2019
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/modeltech64_2019.4/examples
+T_opt
+!s110 1621659824
+VLa7]JS7AKPB=P=Nn>B9i@0
+Z1 04 4 4 work wgTB fast 0
+=1-3cf011774507-60a890a9-257-ca8
+Z2 o-quiet -auto_acc_if_foreign -work work -L C:/Users/SAADATI-PC/Documents/modeltech64_2019.4/Lab3_2/altera -L C:/Users/SAADATI-PC/Documents/modeltech64_2019.4/Lab3_2/cycloneive +acc
+Z3 tCvgOpt 0
+n@_opt
+Z4 OL;O;2019.4;69
+R0
+T_opt1
+!s110 1621613703
+VeTM<d85CLW`4kC`9^jjR30
+R1
+=1-3cf011774507-60a7dc85-8d-32e0
+o-quiet -auto_acc_if_foreign -work work -L C:/Users/SAADATI-PC/Documents/modeltech64_2019.4/Lab3_1/altera -L C:/Users/SAADATI-PC/Documents/modeltech64_2019.4/Lab3_1/cycloneive +acc
+R3
+n@_opt1
+R4
+R0
+T_opt2
+!s110 1621660106
+Vb4^T1nn9H]OcHV?JMdlOQ1
+04 5 4 work wgpTB fast 0
+=1-3cf011774507-60a891c9-292-3c8c
+R2
+R3
+n@_opt2
+R4
+vWaveformGenerator
+!s110 1621612669
+!i10b 1
+!s100 ;2nc3o@WQ_Nk:f:<F9]P90
+!s11b =e7PIS9zAU^j`_l^;734E1
+IXlOBlLON:To`=mDOUaIz01
+Z5 VDg1SIo80bB@j0V0VzS_@n1
+Z6 dC:/Users/SAADATI-PC/Documents/modeltech64_2019.4/Lab3_1
+w1621612555
+8C:/Users/SAADATI-PC/Documents/modeltech64_2019.4/Lab3_1/WaveformGenerator.vo
+FC:/Users/SAADATI-PC/Documents/modeltech64_2019.4/Lab3_1/WaveformGenerator.vo
+!i122 -1
+L0 31
+Z7 OL;L;2019.4;69
+r1
+!s85 0
+31
+!s108 1621612669.000000
+!s107 C:/Users/SAADATI-PC/Documents/modeltech64_2019.4/Lab3_1/WaveformGenerator.vo|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/SAADATI-PC/Documents/modeltech64_2019.4/Lab3_1/WaveformGenerator.vo|
+!i113 0
+Z8 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R3
+n@waveform@generator
+vWaveformGeneratorProcessor
+Z9 !s110 1621612668
+!i10b 1
+!s100 CBz>KRX?6obh@mfJVhdYE0
+!s11b g465<S9JNF4>?ajk5eac`0
+Il[g?n_Y:@na:NB[^7nYaW0
+R5
+R6
+w1621603683
+8C:/Users/SAADATI-PC/Documents/modeltech64_2019.4/Lab3_1/WaveformGeneratorProcessor.v
+FC:/Users/SAADATI-PC/Documents/modeltech64_2019.4/Lab3_1/WaveformGeneratorProcessor.v
+!i122 -1
+L0 2
+R7
+r1
+!s85 0
+31
+Z10 !s108 1621612668.000000
+!s107 C:/Users/SAADATI-PC/Documents/modeltech64_2019.4/Lab3_1/WaveformGeneratorProcessor.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/SAADATI-PC/Documents/modeltech64_2019.4/Lab3_1/WaveformGeneratorProcessor.v|
+!i113 0
+R8
+R3
+n@waveform@generator@processor
+vwgpTB
+R9
+!i10b 1
+!s100 0TVo1YZ1f7zo4nWRbmm[B3
+!s11b GHg1^=Uo=UiNAWFBJDeMh1
+Il;zV;EO[G72N;9Qh03bN_0
+R5
+R6
+w1621592397
+8C:/Users/SAADATI-PC/Documents/modeltech64_2019.4/Lab3_1/WaveformGeneratorProcessorTB.v
+FC:/Users/SAADATI-PC/Documents/modeltech64_2019.4/Lab3_1/WaveformGeneratorProcessorTB.v
+!i122 -1
+L0 2
+R7
+r1
+!s85 0
+31
+R10
+!s107 C:/Users/SAADATI-PC/Documents/modeltech64_2019.4/Lab3_1/WaveformGeneratorProcessorTB.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/SAADATI-PC/Documents/modeltech64_2019.4/Lab3_1/WaveformGeneratorProcessorTB.v|
+!i113 0
+R8
+R3
+nwgp@t@b
+vwgTB
+!s110 1621659778
+!i10b 1
+!s100 B7UGaHln;SGUWfiX6IjN[3
+!s11b Zf4fVYQO=PegHDBFFHK[P0
+I4885kTQmBRQ=<jkTPT15]0
+R5
+R6
+w1621659767
+8C:\Users\SAADATI-PC\Documents\modeltech64_2019.4\Lab3_1\WaveformGeneratorTB.v
+FC:\Users\SAADATI-PC\Documents\modeltech64_2019.4\Lab3_1\WaveformGeneratorTB.v
+!i122 -1
+L0 2
+R7
+r1
+!s85 0
+31
+!s108 1621659778.000000
+!s107 C:\Users\SAADATI-PC\Documents\modeltech64_2019.4\Lab3_1\WaveformGeneratorTB.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:\Users\SAADATI-PC\Documents\modeltech64_2019.4\Lab3_1\WaveformGeneratorTB.v|
+!i113 0
+R8
+R3
+nwg@t@b

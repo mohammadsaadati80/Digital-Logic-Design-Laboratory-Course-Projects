@@ -1,0 +1,115 @@
+m255
+K4
+z2
+!s11f vlog 2019.4 2019.10, Oct 15 2019
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/modeltech64_2019.4/examples
+T_opt
+!s110 1620060685
+VA7<<NolU7[V_QH@T7^DJV2
+04 4 4 work fcTB fast 0
+=1-3cf011774507-60902a0b-2bd-2470
+o-quiet -auto_acc_if_foreign -work work -L C:/Users/SAADATI-PC/Documents/modeltech64_2019.4/Lab2_1/altera -L C:/Users/SAADATI-PC/Documents/modeltech64_2019.4/Lab2_1/cycloneive +acc
+Z0 tCvgOpt 0
+n@_opt
+OL;O;2019.4;69
+vfc2
+!s110 1620060583
+!i10b 1
+!s100 BlbFPPZVf_hY2>AMEm9i^1
+!s11b RG>[gaWQ1@ND]VAW;f]Wh1
+I^5LTYoGn`17ie[^oddeaN1
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/SAADATI-PC/Documents/modeltech64_2019.4/Lab2_1
+w1620060215
+8C:/Users/SAADATI-PC/Documents/modeltech64_2019.4/Lab2_1/fc2.vo
+FC:/Users/SAADATI-PC/Documents/modeltech64_2019.4/Lab2_1/fc2.vo
+!i122 -1
+L0 31
+Z3 OL;L;2019.4;69
+r1
+!s85 0
+31
+Z4 !s108 1620060583.000000
+!s107 C:/Users/SAADATI-PC/Documents/modeltech64_2019.4/Lab2_1/fc2.vo|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/SAADATI-PC/Documents/modeltech64_2019.4/Lab2_1/fc2.vo|
+!i113 0
+Z5 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R0
+vfcTB
+Z6 !s110 1620060584
+!i10b 1
+!s100 Q9F5<P38@1K[7n6^[8IBZ1
+!s11b enB`CgGHD9g_kmKIo_T7R2
+IP`C86:Zmmfl9PT6jKnL?71
+R1
+R2
+w1620055824
+8C:/Users/SAADATI-PC/Documents/modeltech64_2019.4/Lab2_1/fcTB.v
+FC:/Users/SAADATI-PC/Documents/modeltech64_2019.4/Lab2_1/fcTB.v
+!i122 -1
+L0 2
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/SAADATI-PC/Documents/modeltech64_2019.4/Lab2_1/fcTB.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/SAADATI-PC/Documents/modeltech64_2019.4/Lab2_1/fcTB.v|
+!i113 0
+R5
+R0
+nfc@t@b
+vFrequencyRegulator
+R6
+!i10b 1
+!s100 [^mF9d58>jQK>4d=^l7WJ1
+!s11b QC>4BHDgOOg0?=QXiEO4]2
+I^aAkPLWdW^@]J4>FCFcWM3
+R1
+R2
+w1620052626
+8C:/Users/SAADATI-PC/Documents/modeltech64_2019.4/Lab2_1/FrequencyRegulator.v
+FC:/Users/SAADATI-PC/Documents/modeltech64_2019.4/Lab2_1/FrequencyRegulator.v
+!i122 -1
+L0 1
+R3
+r1
+!s85 0
+31
+Z7 !s108 1620060584.000000
+!s107 C:/Users/SAADATI-PC/Documents/modeltech64_2019.4/Lab2_1/FrequencyRegulator.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/SAADATI-PC/Documents/modeltech64_2019.4/Lab2_1/FrequencyRegulator.v|
+!i113 0
+R5
+R0
+n@frequency@regulator
+vRingOscillator1
+R6
+!i10b 1
+!s100 c@><eiK3O<MH1lL7<9i;c2
+!s11b F6K4Gcdi[S9Z=G_AeK=d`2
+I19LIHIWFJDcBoXnY6kb[P0
+R1
+R2
+w1618039464
+8C:/Users/SAADATI-PC/Documents/modeltech64_2019.4/Lab2_1/RingOscillator1.v
+FC:/Users/SAADATI-PC/Documents/modeltech64_2019.4/Lab2_1/RingOscillator1.v
+!i122 -1
+L0 2
+R3
+r1
+!s85 0
+31
+R7
+!s107 C:/Users/SAADATI-PC/Documents/modeltech64_2019.4/Lab2_1/RingOscillator1.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/SAADATI-PC/Documents/modeltech64_2019.4/Lab2_1/RingOscillator1.v|
+!i113 0
+R5
+R0
+n@ring@oscillator1

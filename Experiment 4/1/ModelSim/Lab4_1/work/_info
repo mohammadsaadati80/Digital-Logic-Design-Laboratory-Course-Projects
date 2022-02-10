@@ -1,0 +1,151 @@
+m255
+K4
+z2
+!s11f vlog 2019.4 2019.10, Oct 15 2019
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/modeltech64_2019.4/examples
+T_opt
+!s110 1624021778
+VEA9<DLH]nQV_hg0^F@4X:3
+04 5 4 work FM_TB fast 0
+=3-3cf011774507-60cc9b11-3e4-1ecc
+o-quiet -auto_acc_if_foreign -work work +acc
+Z0 tCvgOpt 0
+n@_opt
+OL;O;2019.4;69
+vFM
+Z1 DXx6 sv_std 3 std 0 22 9oUSJO;AeEaW`l:M@^WG92
+Z2 !s110 1624021767
+!i10b 1
+!s100 j7lWDg4HY]Pn`ARZnkcVA2
+!s11b 7knCDS0f;GFk4iPo4I8mS0
+I;765CdWczXCYc5EOOeW>63
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+S1
+Z4 dC:/Users/SAADATI-PC/Documents/modeltech64_2019.4/Lab4_1
+w1624008139
+8C:/Users/SAADATI-PC/Documents/modeltech64_2019.4/Lab4_1/FrequencyMultiplier.sv
+FC:/Users/SAADATI-PC/Documents/modeltech64_2019.4/Lab4_1/FrequencyMultiplier.sv
+!i122 -1
+L0 1
+Z5 OL;L;2019.4;69
+r1
+!s85 0
+31
+Z6 !s108 1624021767.000000
+!s107 C:/Users/SAADATI-PC/Documents/modeltech64_2019.4/Lab4_1/FrequencyMultiplier.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/SAADATI-PC/Documents/modeltech64_2019.4/Lab4_1/FrequencyMultiplier.sv|
+!i113 0
+Z7 o-work work -sv -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R0
+n@f@m
+vFM_CU
+R1
+R2
+!i10b 1
+!s100 h1]<6lGW:;<J69b1WgKeb3
+!s11b 02EEU7gch[YYXIImBJn@F1
+IchOhF4L_zVAbNNVeOjOzo2
+R3
+S1
+R4
+w1624006751
+8C:/Users/SAADATI-PC/Documents/modeltech64_2019.4/Lab4_1/FrequencyMultiplier_Controller.sv
+FC:/Users/SAADATI-PC/Documents/modeltech64_2019.4/Lab4_1/FrequencyMultiplier_Controller.sv
+!i122 -1
+L0 1
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/SAADATI-PC/Documents/modeltech64_2019.4/Lab4_1/FrequencyMultiplier_Controller.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/SAADATI-PC/Documents/modeltech64_2019.4/Lab4_1/FrequencyMultiplier_Controller.sv|
+!i113 0
+R7
+R0
+n@f@m_@c@u
+vFM_DP
+R1
+!s110 1624021768
+!i10b 1
+!s100 LnTQ8H^iWn_;dSDDBDBLW1
+!s11b =W<5ZoWOeD:FRhA<;U=jc1
+IZo>:E98i[:OXN06>SOU5[3
+R3
+S1
+R4
+w1624008103
+8C:/Users/SAADATI-PC/Documents/modeltech64_2019.4/Lab4_1/FrequencyMultiplier_Datapath.sv
+FC:/Users/SAADATI-PC/Documents/modeltech64_2019.4/Lab4_1/FrequencyMultiplier_Datapath.sv
+!i122 -1
+L0 1
+R5
+r1
+!s85 0
+31
+!s108 1624021768.000000
+!s107 C:/Users/SAADATI-PC/Documents/modeltech64_2019.4/Lab4_1/FrequencyMultiplier_Datapath.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/SAADATI-PC/Documents/modeltech64_2019.4/Lab4_1/FrequencyMultiplier_Datapath.sv|
+!i113 0
+R7
+R0
+n@f@m_@d@p
+vFM_TB
+R1
+DXx4 work 29 FrequencyMultiplierTB_sv_unit 0 22 YlH6m?3Zk5alhLMP:;`GZ0
+Z8 !s110 1624021773
+R3
+r1
+!s85 0
+!i10b 1
+!s100 100czUPzZkee97mM0;Il01
+I7KFN4g^A?[@kagZZY47W43
+!s105 FrequencyMultiplierTB_sv_unit
+S1
+R4
+Z9 w1624021762
+Z10 8C:/Users/SAADATI-PC/Documents/modeltech64_2019.4/Lab4_1/FrequencyMultiplierTB.sv
+Z11 FC:/Users/SAADATI-PC/Documents/modeltech64_2019.4/Lab4_1/FrequencyMultiplierTB.sv
+!i122 -1
+L0 2
+R5
+31
+Z12 !s108 1624021773.000000
+Z13 !s107 C:/Users/SAADATI-PC/Documents/modeltech64_2019.4/Lab4_1/FrequencyMultiplierTB.sv|
+Z14 !s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/SAADATI-PC/Documents/modeltech64_2019.4/Lab4_1/FrequencyMultiplierTB.sv|
+!i113 0
+R7
+R0
+n@f@m_@t@b
+XFrequencyMultiplierTB_sv_unit
+R1
+R8
+VYlH6m?3Zk5alhLMP:;`GZ0
+r1
+!s85 0
+!i10b 1
+!s100 3:6k5LamiUaRS[m56P@;d1
+IYlH6m?3Zk5alhLMP:;`GZ0
+!i103 1
+S1
+R4
+R9
+R10
+R11
+!i122 -1
+L0 1
+R5
+31
+R12
+R13
+R14
+!i113 0
+R7
+R0
+n@frequency@multiplier@t@b_sv_unit

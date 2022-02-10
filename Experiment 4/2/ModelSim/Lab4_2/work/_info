@@ -1,0 +1,298 @@
+m255
+K4
+z2
+!s11f vlog 2019.4 2019.10, Oct 15 2019
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/SAADATI-PC/Documents/modeltech64_2019.4/Lab4_1
+T_opt
+!s110 1624031370
+VbWOeIMmU<Uj?INK_]2A?J3
+04 5 4 work expTB fast 0
+=3-3cf011774507-60ccc088-387-27b0
+o-quiet -auto_acc_if_foreign -work work +acc
+Z0 tCvgOpt 0
+n@_opt
+OL;O;2019.4;69
+vadder
+Z1 !s110 1624025300
+!i10b 1
+!s100 eCc=H`lER_4_hdzNQgFR22
+!s11b Y@BM>CJnTo5bEi<?bf:E91
+IPT]VTIiKJHB_8d^`m>IcT3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dC:/Users/SAADATI-PC/Documents/modeltech64_2019.4/Lab4_2
+w1608023352
+8C:/Users/SAADATI-PC/Documents/modeltech64_2019.4/Lab4_2/adder.v
+FC:/Users/SAADATI-PC/Documents/modeltech64_2019.4/Lab4_2/adder.v
+!i122 -1
+L0 1
+Z4 OL;L;2019.4;69
+r1
+!s85 0
+31
+!s108 1624025299.000000
+!s107 C:/Users/SAADATI-PC/Documents/modeltech64_2019.4/Lab4_2/adder.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/SAADATI-PC/Documents/modeltech64_2019.4/Lab4_2/adder.v|
+!i113 0
+Z5 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R0
+vcontroller
+R1
+!i10b 1
+!s100 >YBmif9G@@2A75N5d7f=<2
+!s11b IhSV[10:_0JOHnQdjgP7d1
+I^CP0;V>=N1RSiYB9d:c>M3
+R2
+R3
+w1608188222
+8C:/Users/SAADATI-PC/Documents/modeltech64_2019.4/Lab4_2/Controller.v
+FC:/Users/SAADATI-PC/Documents/modeltech64_2019.4/Lab4_2/Controller.v
+!i122 -1
+L0 1
+R4
+r1
+!s85 0
+31
+Z6 !s108 1624025300.000000
+!s107 C:/Users/SAADATI-PC/Documents/modeltech64_2019.4/Lab4_2/Controller.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/SAADATI-PC/Documents/modeltech64_2019.4/Lab4_2/Controller.v|
+!i113 0
+R5
+R0
+vcounter
+R1
+!i10b 1
+!s100 UQ1j^HaPSjWgWN`:a6=h<1
+!s11b `L_E=zhfaQz71KcVgA2AP3
+Iaaiza2hzTUYghfX2?`Y@01
+R2
+R3
+w1608024928
+8C:/Users/SAADATI-PC/Documents/modeltech64_2019.4/Lab4_2/Counter.v
+FC:/Users/SAADATI-PC/Documents/modeltech64_2019.4/Lab4_2/Counter.v
+!i122 -1
+L0 2
+R4
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/SAADATI-PC/Documents/modeltech64_2019.4/Lab4_2/Counter.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/SAADATI-PC/Documents/modeltech64_2019.4/Lab4_2/Counter.v|
+!i113 0
+R5
+R0
+vdatapath
+Z7 !s110 1624025301
+!i10b 1
+!s100 X3Sl?G^Fbb0?X:oc4_X;92
+!s11b _a6]Q`R61?NP^A;3j4Jn81
+Ic4zGLh66:jbNo8KjnVYjk2
+R2
+R3
+w1608025242
+8C:/Users/SAADATI-PC/Documents/modeltech64_2019.4/Lab4_2/Datapath.v
+FC:/Users/SAADATI-PC/Documents/modeltech64_2019.4/Lab4_2/Datapath.v
+!i122 -1
+L0 1
+R4
+r1
+!s85 0
+31
+Z8 !s108 1624025301.000000
+!s107 C:/Users/SAADATI-PC/Documents/modeltech64_2019.4/Lab4_2/Datapath.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/SAADATI-PC/Documents/modeltech64_2019.4/Lab4_2/Datapath.v|
+!i113 0
+R5
+R0
+vexponential
+R7
+!i10b 1
+!s100 md5;Vb<:7I>l6FG0?]Gm43
+!s11b DnG3<X@a>]9n8G`@IOj@X3
+ITPI4XRH<>G[];f_kUUSc<1
+R2
+R3
+w1608023344
+8C:/Users/SAADATI-PC/Documents/modeltech64_2019.4/Lab4_2/exponential.v
+FC:/Users/SAADATI-PC/Documents/modeltech64_2019.4/Lab4_2/exponential.v
+!i122 -1
+L0 1
+R4
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/SAADATI-PC/Documents/modeltech64_2019.4/Lab4_2/exponential.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/SAADATI-PC/Documents/modeltech64_2019.4/Lab4_2/exponential.v|
+!i113 0
+R5
+R0
+vexpTB
+!s110 1624031360
+!i10b 1
+!s100 DUDUmd_iRZUMX^?no:60@2
+!s11b f_K41S4FSzlLXdGGZg0z_3
+I5ATLhD=_^6Rn;>U@Z]jRS1
+R2
+R3
+w1624031353
+Z9 8C:/Users/SAADATI-PC/Documents/modeltech64_2019.4/Lab4_2/TB.v
+Z10 FC:/Users/SAADATI-PC/Documents/modeltech64_2019.4/Lab4_2/TB.v
+!i122 -1
+L0 2
+R4
+r1
+!s85 0
+31
+!s108 1624031360.000000
+Z11 !s107 C:/Users/SAADATI-PC/Documents/modeltech64_2019.4/Lab4_2/TB.v|
+Z12 !s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/SAADATI-PC/Documents/modeltech64_2019.4/Lab4_2/TB.v|
+!i113 0
+R5
+R0
+nexp@t@b
+vexptest
+!s110 1624025304
+!i10b 1
+!s100 bkM_j7P?Elk13Z`530[_00
+!s11b oHi7k@[HkCoikmfO]o;I?2
+IO0o==^::@lQdV8PACz4D[1
+R2
+R3
+w1624025282
+R9
+R10
+!i122 -1
+L0 2
+R4
+r1
+!s85 0
+31
+Z13 !s108 1624025303.000000
+R11
+R12
+!i113 0
+R5
+R0
+vLUT
+Z14 !s110 1624025302
+!i10b 1
+!s100 JgVO?Lj==2bRMg4oCe6nH3
+!s11b LllkM:_ZA8Q]@^^c@XfFR1
+I0nd0Yz>4FTL^ODAFJc62F3
+R2
+R3
+w1608023408
+8C:/Users/SAADATI-PC/Documents/modeltech64_2019.4/Lab4_2/LUTExp.v
+FC:/Users/SAADATI-PC/Documents/modeltech64_2019.4/Lab4_2/LUTExp.v
+!i122 -1
+L0 1
+R4
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/SAADATI-PC/Documents/modeltech64_2019.4/Lab4_2/LUTExp.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/SAADATI-PC/Documents/modeltech64_2019.4/Lab4_2/LUTExp.v|
+!i113 0
+R5
+R0
+n@l@u@t
+vmultiplier
+R14
+!i10b 1
+!s100 OLiLEPYa]L[;Zh@Me8Z9f1
+!s11b ni[1F550foB6OI7ViYj401
+IIH67:zaNY@DQhZdK:UJZf0
+R2
+R3
+w1608024648
+8C:/Users/SAADATI-PC/Documents/modeltech64_2019.4/Lab4_2/multiplier.v
+FC:/Users/SAADATI-PC/Documents/modeltech64_2019.4/Lab4_2/multiplier.v
+!i122 -1
+L0 2
+R4
+r1
+!s85 0
+31
+Z15 !s108 1624025302.000000
+!s107 C:/Users/SAADATI-PC/Documents/modeltech64_2019.4/Lab4_2/multiplier.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/SAADATI-PC/Documents/modeltech64_2019.4/Lab4_2/multiplier.v|
+!i113 0
+R5
+R0
+vmux2to1
+R14
+!i10b 1
+!s100 FWhMI@:R3Tdk@:__`5[C<2
+!s11b zQ?1m<8>]TSgPU>Ia0B5a0
+I4n0Le:Ihf:1Mnbo^7JfD;2
+R2
+R3
+w1608024418
+8C:/Users/SAADATI-PC/Documents/modeltech64_2019.4/Lab4_2/mux2to1.v
+FC:/Users/SAADATI-PC/Documents/modeltech64_2019.4/Lab4_2/mux2to1.v
+!i122 -1
+L0 2
+R4
+r1
+!s85 0
+31
+R15
+!s107 C:/Users/SAADATI-PC/Documents/modeltech64_2019.4/Lab4_2/mux2to1.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/SAADATI-PC/Documents/modeltech64_2019.4/Lab4_2/mux2to1.v|
+!i113 0
+R5
+R0
+vregister
+Z16 !s110 1624025303
+!i10b 1
+!s100 7cl4m`oQk9Q7i<YFIboml2
+!s11b A:U;<Tk9TY=MngjGz728n2
+I6NOHfh^jJzV=3zB;a4UfZ0
+R2
+R3
+w1608024874
+8C:/Users/SAADATI-PC/Documents/modeltech64_2019.4/Lab4_2/register.v
+FC:/Users/SAADATI-PC/Documents/modeltech64_2019.4/Lab4_2/register.v
+!i122 -1
+L0 2
+R4
+r1
+!s85 0
+31
+R13
+!s107 C:/Users/SAADATI-PC/Documents/modeltech64_2019.4/Lab4_2/register.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/SAADATI-PC/Documents/modeltech64_2019.4/Lab4_2/register.v|
+!i113 0
+R5
+R0
+vregister18
+R16
+!i10b 1
+!s100 oAz243<D<a_lCnTHNlRjS2
+!s11b F@0L^Uk5:CSceS9Q=8eSD1
+IC9AY^_0=e^6nLA4H55_TO3
+R2
+R3
+w1608024838
+8C:/Users/SAADATI-PC/Documents/modeltech64_2019.4/Lab4_2/register18.v
+FC:/Users/SAADATI-PC/Documents/modeltech64_2019.4/Lab4_2/register18.v
+!i122 -1
+L0 2
+R4
+r1
+!s85 0
+31
+R13
+!s107 C:/Users/SAADATI-PC/Documents/modeltech64_2019.4/Lab4_2/register18.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/SAADATI-PC/Documents/modeltech64_2019.4/Lab4_2/register18.v|
+!i113 0
+R5
+R0

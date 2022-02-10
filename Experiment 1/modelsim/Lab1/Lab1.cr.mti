@@ -1,0 +1,43 @@
+C:/Users/SAADATI-PC/Documents/modeltech64_2019.4/Lab1/TB2_3.v {1 {vlog -work work -vopt -stats=none C:/Users/SAADATI-PC/Documents/modeltech64_2019.4/Lab1/TB2_3.v
+Model Technology ModelSim SE-64 vlog 2019.4 Compiler 2019.10 Oct 15 2019
+-- Compiling module TB2_3
+
+Top level modules:
+	TB2_3
+
+} {} {}} C:/Users/SAADATI-PC/Documents/modeltech64_2019.4/Lab1/RingOscillator2.v {1 {vlog -work work -vopt -stats=none C:/Users/SAADATI-PC/Documents/modeltech64_2019.4/Lab1/RingOscillator2.v
+Model Technology ModelSim SE-64 vlog 2019.4 Compiler 2019.10 Oct 15 2019
+-- Compiling module RingOscillator2
+
+Top level modules:
+	RingOscillator2
+
+} {} {}} C:/Users/SAADATI-PC/Documents/modeltech64_2019.4/Lab1/RingOscillatorTB.v {1 {vlog -work work -vopt -stats=none C:/Users/SAADATI-PC/Documents/modeltech64_2019.4/Lab1/RingOscillatorTB.v
+Model Technology ModelSim SE-64 vlog 2019.4 Compiler 2019.10 Oct 15 2019
+-- Compiling module RingOscillatorTB
+
+Top level modules:
+	RingOscillatorTB
+
+} {} {}} C:/Users/SAADATI-PC/Documents/modeltech64_2019.4/Lab1/fc.vo {1 {vlog -work work -vopt -stats=none C:/Users/SAADATI-PC/Documents/modeltech64_2019.4/Lab1/fc.vo
+Model Technology ModelSim SE-64 vlog 2019.4 Compiler 2019.10 Oct 15 2019
+-- Compiling module fc
+
+Top level modules:
+	fc
+
+} {} {}} C:/Users/SAADATI-PC/Documents/modeltech64_2019.4/Lab1/TB2_2.v {1 {vlog -work work -vopt -stats=none C:/Users/SAADATI-PC/Documents/modeltech64_2019.4/Lab1/TB2_2.v
+Model Technology ModelSim SE-64 vlog 2019.4 Compiler 2019.10 Oct 15 2019
+-- Compiling module TB2_2
+
+Top level modules:
+	TB2_2
+
+} {} {}} C:/Users/SAADATI-PC/Documents/modeltech64_2019.4/Lab1/RingOscillator1.v {1 {vlog -work work -vopt -stats=none C:/Users/SAADATI-PC/Documents/modeltech64_2019.4/Lab1/RingOscillator1.v
+Model Technology ModelSim SE-64 vlog 2019.4 Compiler 2019.10 Oct 15 2019
+-- Compiling module RingOscillator1
+
+Top level modules:
+	RingOscillator1
+
+} {} {}}

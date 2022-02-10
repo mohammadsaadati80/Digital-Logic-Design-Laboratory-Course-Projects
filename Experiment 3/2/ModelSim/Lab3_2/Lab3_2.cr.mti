@@ -1,0 +1,23 @@
+C:/Users/SAADATI-PC/Documents/modeltech64_2019.4/Lab3_2/clkdiv8TB.v {2 {vlog -work work -vopt -stats=none {C:\Users\SAADATI-PC\Documents\modeltech64_2019.4\Lab3_2\clkdiv8TB.v}
+Model Technology ModelSim SE-64 vlog 2019.4 Compiler 2019.10 Oct 15 2019
+** Warning: C:\Users\SAADATI-PC\Documents\modeltech64_2019.4\Lab3_2\clkdiv8TB.v(1): (vlog-2283) Extra semicolon in $unit (global) scope.
+-- Compiling module clkdiv8TB
+
+Top level modules:
+	clkdiv8TB
+
+} {} {}} C:/Users/SAADATI-PC/Documents/modeltech64_2019.4/Lab3_2/clkdiv8.v {1 {vlog -work work -vopt -stats=none {C:\Users\SAADATI-PC\Documents\modeltech64_2019.4\Lab3_2\clkdiv8.v}
+Model Technology ModelSim SE-64 vlog 2019.4 Compiler 2019.10 Oct 15 2019
+-- Compiling module clkdiv8
+
+Top level modules:
+	clkdiv8
+
+} {} {}} C:/Users/SAADATI-PC/Documents/modeltech64_2019.4/Lab3_2/WaveformGenFreqSelec.vo {1 {vlog -work work -vopt -stats=none {C:\Users\SAADATI-PC\Documents\modeltech64_2019.4\Lab3_2\WaveformGenFreqSelec.vo}
+Model Technology ModelSim SE-64 vlog 2019.4 Compiler 2019.10 Oct 15 2019
+-- Compiling module WaveformGenFreqSelec
+
+Top level modules:
+	WaveformGenFreqSelec
+
+} {} {}}

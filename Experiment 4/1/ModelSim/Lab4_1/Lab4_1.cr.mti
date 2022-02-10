@@ -1,0 +1,22 @@
+C:/Users/SAADATI-PC/Documents/modeltech64_2019.4/Lab4_1/FrequencyMultiplier_Controller.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/SAADATI-PC/Documents/modeltech64_2019.4/Lab4_1/FrequencyMultiplier_Controller.sv
+Model Technology ModelSim SE-64 vlog 2019.4 Compiler 2019.10 Oct 15 2019
+-- Compiling module FM_CU
+
+Top level modules:
+	FM_CU
+
+} {} {}} C:/Users/SAADATI-PC/Documents/modeltech64_2019.4/Lab4_1/FrequencyMultiplier.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/SAADATI-PC/Documents/modeltech64_2019.4/Lab4_1/FrequencyMultiplier.sv
+Model Technology ModelSim SE-64 vlog 2019.4 Compiler 2019.10 Oct 15 2019
+-- Compiling module FM
+
+Top level modules:
+	FM
+
+} {} {}} C:/Users/SAADATI-PC/Documents/modeltech64_2019.4/Lab4_1/FrequencyMultiplier_Datapath.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/SAADATI-PC/Documents/modeltech64_2019.4/Lab4_1/FrequencyMultiplier_Datapath.sv
+Model Technology ModelSim SE-64 vlog 2019.4 Compiler 2019.10 Oct 15 2019
+-- Compiling module FM_DP
+
+Top level modules:
+	FM_DP
+
+} {} {}}

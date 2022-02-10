@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Sat Apr 10 13:03:13 2021
+Quartus II 64-Bit Version : 13.0.1 Build 232 06/12/2013 SP 1 SJ Web Edition
+Revision Name : fc2
+Top-level Entity Name : fc2
+Family : Cyclone IV E
+Total logic elements : 34
+    Total combinational functions : 34
+    Dedicated logic registers : 9
+Total registers : 9
+Total pins : 19
+Total virtual pins : 0
+Total memory bits : 0
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 0
